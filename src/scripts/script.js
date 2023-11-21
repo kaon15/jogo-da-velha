@@ -98,8 +98,8 @@ winnerSelected.innerHTML = winner;
 }
 
 function changesColorSquare(square1, square2, square3) {
-square3.style.background = '#a1a8ab';
-square3.style.background = '#a1a8ab';
+square1.style.background = '#a1a8ab';
+square2.style.background = '#a1a8ab';
 square3.style.background = '#a1a8ab';
 }
 
